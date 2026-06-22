@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1536" height="1024" alt="ChatGPT Image 21 jun 2026, 06_40_38 p m  (1)" src="https://github.com/user-attachments/assets/a63f212c-7e43-4d6f-ae30-564cfb4075bb" />
+
 
 <!--
 **MMLabsDev/MMLabsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
