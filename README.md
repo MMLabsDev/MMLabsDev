@@ -6,10 +6,19 @@
 📚 Estudiante de Oportunidades FGK.
 🚀 Siempre aprendiendo algo nuevo.
 
+## 🛠 Mi arsenal:
+- Git y GitHub
+- Python 🐍
+- C++ ➕´Aprendiendo´
+- html 🌐
+- Java Script 🟨 ´Aprendiendo´
+- Kali Linux
+
 ## 🎯 Mis Metas:
 - Aprender C++
 - Crear herramientas de ciberseguridad
 - Contribuir a proyectos Open Source
+- Manejar con fluidez diferentes lenguajes de programación
 
 ---
 ⭐ Gracias por visitar mi perfil.
