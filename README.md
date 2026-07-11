@@ -1,7 +1,7 @@
 # ¡Hola!👋🏻Soy Miguel
 
 💻 Programador apasionado por Python.
-🔐 Aprendiendo Ciberseguridad.
+🔐 Entusiasta en Ciberseguridad.
 🤖 Construyendo Multicode-system.
 📚 Estudiante de Oportunidades FGK.
 🚀 Siempre aprendiendo algo nuevo.
@@ -9,7 +9,7 @@
 ## 🛠 Mi arsenal:
 - Git y GitHub
 - Python 🐍
-- C++ ➕´Aprendiendo´
+- C++ ➕ ´Aprendiendo´
 - html 🌐
 - Java Script 🟨 ´Aprendiendo´
 - Kali Linux
