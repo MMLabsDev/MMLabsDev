@@ -9,9 +9,9 @@
 ## 🛠 Mi arsenal:
 - Git y GitHub
 - Python 🐍
-- C++ ➕ ´Aprendiendo´
+- C++ ➕ `Aprendiendo`
 - html 🌐
-- Java Script 🟨 ´Aprendiendo´
+- Java Script 🟨 `Aprendiendo`
 - Kali Linux
 
 ## 🎯 Mis Metas:
