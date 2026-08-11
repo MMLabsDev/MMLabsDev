@@ -28,7 +28,7 @@
 
 Estos son algunos de mis logros como programador:
 
-📄 **[Ver todos mis diplomas →](./DIPLOMAS.md)**
+📄 **[Ver todos mis diplomas →](./Diplomas.md)**
 ---
 
 ## 🎯 Mis Metas:
