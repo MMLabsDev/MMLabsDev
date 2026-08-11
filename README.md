@@ -6,6 +6,16 @@
 📚 Estudiante de Oportunidades FGK.
 🚀 Siempre aprendiendo algo nuevo.
 
+---
+
+## 💼 Experiencia
+
+- Desarrollo Web
+- Programación en Python
+- Proyectos Educativos
+
+---
+
 ## 🛠 Mi arsenal:
 - Git y GitHub
 - Python 🐍
@@ -13,6 +23,13 @@
 - html 🌐
 - Java Script 🟨 `Aprendiendo`
 - Kali Linux
+
+## 🎓 Certificaciones y Diplomas:
+
+Estos son algunos de mis logros como programador:
+
+📄 **[Ver todos mis diplomas →](./DIPLOMAS.md)**
+---
 
 ## 🎯 Mis Metas:
 - Aprender C++
