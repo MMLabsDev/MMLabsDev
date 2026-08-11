@@ -23,8 +23,7 @@
 ---
 ⭐ Gracias por visitar mi perfil.
 
-<img width="1500" height="988" alt="ChatGPT Image 21 jun 2026, 06_40_38 p m  (1)" src="https://github.com/user-attachments/assets/a63f212c-7e43-4d6f-ae30-564cfb4075bb" />
-
+<img width="1536" height="1024" alt="8bb93a48-45f6-4d91-9f28-982250e7441f" src="https://github.com/user-attachments/assets/58bbcb1d-3fb3-414b-abf5-cf02adf449cd" />
 
 <!--
 **MMLabsDev/MMLabsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
