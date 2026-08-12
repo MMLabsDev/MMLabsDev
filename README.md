@@ -27,6 +27,7 @@
 ## 🎓 Certificaciones y Diplomas:
 
 Estos son algunos de mis logros como programador:
+(Y vienen más...)
 
 📄 **[Ver todos mis diplomas →](./Diplomas.md)**
 ---
@@ -36,6 +37,7 @@ Estos son algunos de mis logros como programador:
 - Crear herramientas de ciberseguridad
 - Contribuir a proyectos Open Source
 - Manejar con fluidez diferentes lenguajes de programación
+- Crear herramientas útiles e innovadoras
 
 ---
 ⭐ Gracias por visitar mi perfil.
