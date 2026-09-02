@@ -7,3 +7,4 @@
 [miguel-martinez-csp-2026-final-presencial.pdf](https://github.com/user-attachments/files/31430073/miguel-martinez-csp-2026-final-presencial.pdf)
 
 [miguel-martinez-csp-2026-fase-virtual.pdf](https://github.com/user-attachments/files/31430068/miguel-martinez-csp-2026-fase-virtual.pdf)
+![miguel-martinez-csp-2026-fase-virtual ](https://github.com/user-attachments/assets/fe3b4d03-cdef-44b2-a0e3-630fbf580c0f)
