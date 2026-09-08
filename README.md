@@ -10,7 +10,7 @@
 
 ## 💼 Experiencia
 
-- Desarrollo Web
+- Desarrollo Web `Principiante`
 - Programación en Python
 - Proyectos Educativos
 
