@@ -20,9 +20,9 @@
 - Git y GitHub
 - Python 🐍
 - C++ ➕ `Aprendiendo`
-- html 🌐
+- html y CSS 🌐
 - Java Script 🟨 `Aprendiendo`
-- Kali Linux
+- Linux (Arch y Kali)
 
 ## 🎓 Certificaciones y Diplomas:
 
@@ -33,11 +33,12 @@ Estos son algunos de mis logros como programador:
 ---
 
 ## 🎯 Mis Metas:
-- Aprender C++
+- Dominar C++
 - Crear herramientas de ciberseguridad
 - Contribuir a proyectos Open Source
 - Manejar con fluidez diferentes lenguajes de programación
 - Crear herramientas útiles e innovadoras
+- Llegar a construir mi propio startup
 
 ---
 ⭐ Gracias por visitar mi perfil.
