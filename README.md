@@ -39,6 +39,8 @@ Estos son algunos de mis logros como programador:
 - Manejar con fluidez diferentes lenguajes de programación
 - Crear herramientas útiles e innovadoras
 - Llegar a construir mi propio startup
+- Llegar a dominar Assembly
+- Ser capaz de entender el software profundamente
 
 ---
 ⭐ Gracias por visitar mi perfil.
