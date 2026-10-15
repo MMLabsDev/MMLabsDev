@@ -21,7 +21,7 @@
 - Python 🐍
 - C++ ➕ `Aprendiendo`
 - html y CSS 🌐
-- Java Script 🟨 `Nivel Básco`
+- Java Script 🟨 `Nivel Básico`
 - Linux (Arch y Kali)
 
 ## 🎓 Certificaciones y Diplomas:
