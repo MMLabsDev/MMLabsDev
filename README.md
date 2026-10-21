@@ -1,10 +1,10 @@
 # ¡Hola!👋🏻Soy Miguel
 
-💻 Programador apasionado por Python.
-🔐 Entusiasta en Ciberseguridad.
-🤖 Construyendo Proyectos.
-📚 Estudiante de Oportunidades FGK.
-🚀 Siempre aprendiendo algo nuevo.
+💻 Programador apasionado por Python.|
+🔐 Entusiasta en Ciberseguridad.|
+🤖 Construyendo Proyectos personales y Cools.|
+📚 Estudiante de Oportunidades FGK.|
+🚀 Siempre aprendiendo algo nuevo.|
 
 ---
 
