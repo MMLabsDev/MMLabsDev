@@ -51,6 +51,7 @@ Pero pasó de ser un simple pasatiempo cuando otros vieron mi potencial y los pr
 Luego de eso, me dí cuenta de mi verdadera vocación: **"Desarrollador de Software"**
 Desde entonces he hecho lo posible para aprender de todo un poco; sé sobre ciberseguridad, programación en unos que otros lenguajes de código, y desarrollo web (_aunque solo he hecho sitios web para mis proyectos escolares_)
 
+**Hoy en día:** Sigo aprendiendo cosas nuevas (sobre todo sigo mejorando en css y C++), practicando ciberseguridad (cursos como tryhackme y videos de EL PINGÜINO DE MARIO (Maalfer)) y también quiero empezar con la creación de apps web.
 ---
 ⭐ Gracias por visitar mi perfil.
 
