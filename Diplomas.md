@@ -19,4 +19,9 @@
 `Mi diploma por haber participado presencialmente en la Escuela Superior de Economía y Negocios (ESEN)`
 
 ---
+
+<img width="864" height="667" alt="mi_diploma" src="https://github.com/user-attachments/assets/95050af1-6a3b-4d6a-bf5d-1fdd39eff847" />
+`Mi primer diploma digital en Platzi`
+
+---
 # Y vienen más en camino...
