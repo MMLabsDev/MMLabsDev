@@ -34,14 +34,14 @@ Estos son algunos de mis logros como programador:
 ---
 
 ## 🎯 Mis Metas:
-- Dominar C++ (_Aunque se difícil_)
+- Dominar C++ (_Pues... Me cuesta_)
 - Crear herramientas de ciberseguridad
 - Contribuir a proyectos Open Source
 - Manejar con fluidez diferentes lenguajes de programación
 - Crear herramientas útiles e innovadoras
 - Llegar a construir mis propios startup desde antes de entrar a una universidad
 - Llegar a dominar lenguajes como *Asembly*, *Cuda* y *Rust*
-- Ser capaz de entender el software profundamente
+- Especializarme en hacking ético, ciberseguridad y pentesting.
 
 ---
 
@@ -51,7 +51,7 @@ Pero pasó de ser un simple pasatiempo cuando otros vieron mi potencial y los pr
 Luego de eso, me dí cuenta de mi verdadera vocación: **"Desarrollador de Software"**
 Desde entonces he hecho lo posible para aprender de todo un poco; sé sobre ciberseguridad, programación en unos que otros lenguajes de código, y desarrollo web (_aunque solo he hecho sitios web para mis proyectos escolares_)
 
-### **Hoy en día:** Sigo aprendiendo cosas nuevas (sobre todo sigo mejorando en css y C++), practicando ciberseguridad (cursos como tryhackme y videos de EL PINGÜINO DE MARIO (Maalfer)) y también quiero empezar con la creación de apps web.
+### **Hoy en día:** Sigo aprendiendo cosas nuevas (sobre todo sigo mejorando en css y C++), practicando ciberseguridad (cursos como tryhackme, Platzi y videos del canal EL PINGÜINO DE MARIO (Maalfer)) y también quiero empezar con la creación de apps web.
 ---
 ⭐ Gracias por visitar mi perfil.
 
